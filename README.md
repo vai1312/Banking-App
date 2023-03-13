@@ -1,2 +1,2 @@
 # Banking-App
-Simple page
+Simple page for a simple transaction
